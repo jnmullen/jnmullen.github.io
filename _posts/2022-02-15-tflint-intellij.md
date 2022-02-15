@@ -28,7 +28,7 @@ What I wanted was this functionality available in the IDE I am using to edit the
 
 2. Ensure you have tflint setup correctly
 
-I have my `tflint` config file in this location `~/tflint.hcl` and at the time of writing have the following rules enabled :
+   I have my `tflint` config file in this location `~/tflint.hcl` and at the time of writing have the following rules enabled :
 
    ```shell
    config {
