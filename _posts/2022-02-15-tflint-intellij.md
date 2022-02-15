@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Setting up tflint with IntelliJ
 ---
 ## Using tflint with IntelliJ
